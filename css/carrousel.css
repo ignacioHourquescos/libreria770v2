@@ -1,0 +1,11 @@
+.container {
+  background-color:white;
+  padding: 5px;
+  display: flex;
+  
+}
+
+.carousel-logo {
+  width: 30%;
+  height: 30px;
+}
